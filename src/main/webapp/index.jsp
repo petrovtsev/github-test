@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Destroy World!</h2>
+<h2>Destroy!</h2>
 </body>
 </html>
